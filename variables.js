@@ -9,6 +9,8 @@ var edad;
 var edad;
 edad = 19;
 
+//Array
+
 var elementos = ["Computador", "Celular"];
 
 //Variable tipo objeto
